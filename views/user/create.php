@@ -17,4 +17,3 @@ if ( !empty( $error ) ) {
         <input type="submit" value="Register" />
     </div>
 </form>
-<script type="text/javascript" src="behavior.js"></script>

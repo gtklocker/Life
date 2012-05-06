@@ -16,4 +16,3 @@ if ( !empty( $error ) ) {
         <input type="submit" value="Log in" />
     </div>
 </form>
-<script type="text/javascript" src="behavior.js"></script>
